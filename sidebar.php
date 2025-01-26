@@ -35,10 +35,11 @@
             <ul class="sidebar-dropdown list-unstyled collapse" id="auth" data-bs-parent="#sidebar">
               <li class="sidebar-item"><a href="#client-section" class="sidebar-link">Clients</a></li>
               <li class="sidebar-item"><a href="#" class="sidebar-link">Commands</a></li>
-              <li class="sidebar-item"><a href="#" class="sidebar-link">Produit</a></li>
+              <li class="sidebar-item"><a href="best-sells.php" class="sidebar-link">Produit</a></li>
               <li class="sidebar-item"><a href="#" class="sidebar-link">Fournissuers</a></li>
               <li class="sidebar-item"><a href="#" class="sidebar-link">Panier</a></li>
               <li class="sidebar-item"><a href="#" class="sidebar-link">Rubrique</a></li>
+              <li class="sidebar-item"><a href="luc-sells.php" class="sidebar-link">lucrative foods</a></li>
             </ul>
         </li>
             <li class="sidebar-item">

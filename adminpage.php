@@ -5,7 +5,7 @@ if (!isset($_SESSION['login']) || $_SESSION['login'] !== true) {
     header("Location: login.php"); 
     exit(); 
 }
-$user_name = $_SESSION['username']; 
+//$user_name = $_SESSION['username']; 
 ?>
 <?php include 'sidebar.php'?>
 <div class="main">
